@@ -10,7 +10,7 @@
 
 1. Use `git branch` to verify that you are under branch "development". If not, use `git checkout development` to switch to that branh
 
-1. Add your last name to students-list in students.py
+1. Add your last name to students\_list in students.py
 
 1. Add your changes using 'git add *'
 
